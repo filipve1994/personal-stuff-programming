@@ -1,6 +1,14 @@
 # personal-stuff-programming
 all links, tutorials, examples about programming
 
+### host github blog for free
+
+- https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
+- https://onextrapixel.com/start-jekyll-blog-github-pages-free/
+- https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f
+- https://pages.github.com/
+- https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages
+- https://www.google.com/search?q=github+free+hosting+jekyll+site&rlz=1C1CHBD_enBE837BE837&oq=github+free+hosting+jekyll+site&aqs=chrome..69i57.10407j0j1&sourceid=chrome&ie=UTF-8
 
 ### logstash
 
