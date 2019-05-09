@@ -3,6 +3,7 @@ all links, tutorials, examples about programming
 
 ### host github blog for free
 
+- https://jekyllrb.com/docs/
 - https://towardsdatascience.com/how-to-create-a-free-github-pages-website-53743d7524e1
 - https://onextrapixel.com/start-jekyll-blog-github-pages-free/
 - https://medium.com/spemer/free-github-blog-and-hosting-with-jekyll-c24c408d158f
